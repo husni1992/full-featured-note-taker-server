@@ -1,0 +1,24 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/husni1992/full-featured-note-taker-server.git"
+  },
+  "author": "M.G.Husny Ahamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/husni1992/full-featured-note-taker-server/issues"
+  },
+  "homepage": "https://github.com/husni1992/full-featured-note-taker-server#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0",
+    "yargs": "^17.4.0"
+  }
+}
